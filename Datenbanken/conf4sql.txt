@@ -1,0 +1,7 @@
+.header on
+.mode column
+.prompt "\n SQL Command:" ";;; >"
+.print "Datenbank"
+.da 
+.print "Tabellen"
+.ta
