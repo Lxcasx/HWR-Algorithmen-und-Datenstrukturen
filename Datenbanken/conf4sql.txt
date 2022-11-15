@@ -1,6 +1,6 @@
 .header on
 .mode column
-.prompt "\n SQL Command:" ";;; >"
+.prompt "\n SQL Command: " ";;; >"
 .print "Datenbank"
 .da 
 .print "Tabellen"
